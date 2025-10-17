@@ -1,8 +1,8 @@
 # Hi there, I'm Hirwa Patrick 👋
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yourprofile/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yourusername)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourhandle)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hirwa-patrick-95567531b/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/hirwapatrick)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/hirwapatrick9/)
 
 ---
 
@@ -57,8 +57,8 @@ Browser extension to block distracting social media sites and improve productivi
 
 ## 💬 Contact Me
 - Email: **hirwap96@gmail.com.com**  
-- LinkedIn: [linkedin.com/in/yourprofile](https://www.linkedin.com/in/hirwa-patrick-95567531b/)  
-- IG: [@yourhandle](https://www.instagram.com/hirwapatrick9/)  
+- LinkedIn: [linkedin.com/in/hirwa-patrick-95567531b/](https://www.linkedin.com/in/hirwa-patrick-95567531b/)  
+- IG: [@hirwapatrick9](https://www.instagram.com/hirwapatrick9/)  
 
 ---
 
