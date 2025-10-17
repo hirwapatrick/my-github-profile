@@ -41,7 +41,7 @@ I enjoy exploring **React.js, Node.js, MongoDB**, and integrating AI features in
 
 ## 🚀 Projects
 
-### 3. **Social Media Blocker Extension**
+### 1. **Social Media Blocker Extension**
 Browser extension to block distracting social media sites and improve productivity.  
 [View Project](https://github.com/hirwapatrick/SM)
 
